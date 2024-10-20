@@ -1,0 +1,12 @@
+type                  = "XF_ROUTER"
+metro_code            = "SG" #put your choice of location
+metro_code_sv = "SV" #put your choice of location
+metro_code_DA = "DA" #put your choice of location
+emails                = "<put your email ID"
+purchase_order_number = "<put your equinix purchase order>"
+code                  = "STANDARD"
+project_id            = "<put your equinix project ID>"
+account_number        = "<put your equinix account number>"
+ecx_client_id = "<put your equinix client ID>"
+ecx_client_secret = "<put your equinix client Secret ID>"
+IPWAN_Name = "VIPIN_IPWAN" # put your choice of name
